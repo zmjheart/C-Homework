@@ -1,0 +1,5 @@
+H:\C#\P82 2(5)\xt3-5\bin\Debug\xt3-5.exe.config
+H:\C#\P82 2(5)\xt3-5\bin\Debug\xt3-5.exe
+H:\C#\P82 2(5)\xt3-5\bin\Debug\xt3-5.pdb
+H:\C#\P82 2(5)\xt3-5\obj\Debug\xt3-5.exe
+H:\C#\P82 2(5)\xt3-5\obj\Debug\xt3-5.pdb
