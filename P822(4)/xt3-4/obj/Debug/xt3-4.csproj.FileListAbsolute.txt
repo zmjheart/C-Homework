@@ -1,0 +1,9 @@
+H:\C#\P822(4)\xt3-4\obj\Debug\xt3-4.csprojAssemblyReference.cache
+H:\C#\P822(4)\xt3-4\obj\Debug\xt3_4.Form1.resources
+H:\C#\P822(4)\xt3-4\obj\Debug\xt3_4.Properties.Resources.resources
+H:\C#\P822(4)\xt3-4\obj\Debug\xt3-4.csproj.GenerateResource.cache
+H:\C#\P822(4)\xt3-4\bin\Debug\xt3-4.exe.config
+H:\C#\P822(4)\xt3-4\bin\Debug\xt3-4.exe
+H:\C#\P822(4)\xt3-4\bin\Debug\xt3-4.pdb
+H:\C#\P822(4)\xt3-4\obj\Debug\xt3-4.exe
+H:\C#\P822(4)\xt3-4\obj\Debug\xt3-4.pdb
