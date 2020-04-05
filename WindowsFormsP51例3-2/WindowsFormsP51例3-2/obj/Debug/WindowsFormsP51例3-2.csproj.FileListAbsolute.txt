@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\WindowsFormsP51例3-2\WindowsFormsP51例3-2\bin\Debug\WindowsFormsP51例3-2.exe.config
+C:\Users\Administrator\source\repos\WindowsFormsP51例3-2\WindowsFormsP51例3-2\bin\Debug\WindowsFormsP51例3-2.exe
+C:\Users\Administrator\source\repos\WindowsFormsP51例3-2\WindowsFormsP51例3-2\bin\Debug\WindowsFormsP51例3-2.pdb
+C:\Users\Administrator\source\repos\WindowsFormsP51例3-2\WindowsFormsP51例3-2\obj\Debug\WindowsFormsP51例3-2.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\WindowsFormsP51例3-2\WindowsFormsP51例3-2\obj\Debug\WindowsFormsP51例3_2.Form1.resources
+C:\Users\Administrator\source\repos\WindowsFormsP51例3-2\WindowsFormsP51例3-2\obj\Debug\WindowsFormsP51例3_2.Properties.Resources.resources
+C:\Users\Administrator\source\repos\WindowsFormsP51例3-2\WindowsFormsP51例3-2\obj\Debug\WindowsFormsP51例3-2.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\WindowsFormsP51例3-2\WindowsFormsP51例3-2\obj\Debug\WindowsFormsP51例3-2.exe
+C:\Users\Administrator\source\repos\WindowsFormsP51例3-2\WindowsFormsP51例3-2\obj\Debug\WindowsFormsP51例3-2.pdb
