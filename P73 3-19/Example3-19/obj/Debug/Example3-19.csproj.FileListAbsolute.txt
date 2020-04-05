@@ -1,0 +1,9 @@
+H:\C#\P73 3-19\Example3-19\bin\Debug\Example3-19.exe.config
+H:\C#\P73 3-19\Example3-19\bin\Debug\Example3-19.exe
+H:\C#\P73 3-19\Example3-19\bin\Debug\Example3-19.pdb
+H:\C#\P73 3-19\Example3-19\obj\Debug\Example3-19.csprojAssemblyReference.cache
+H:\C#\P73 3-19\Example3-19\obj\Debug\Example3_19.Form1.resources
+H:\C#\P73 3-19\Example3-19\obj\Debug\Example3_19.Properties.Resources.resources
+H:\C#\P73 3-19\Example3-19\obj\Debug\Example3-19.csproj.GenerateResource.cache
+H:\C#\P73 3-19\Example3-19\obj\Debug\Example3-19.exe
+H:\C#\P73 3-19\Example3-19\obj\Debug\Example3-19.pdb
