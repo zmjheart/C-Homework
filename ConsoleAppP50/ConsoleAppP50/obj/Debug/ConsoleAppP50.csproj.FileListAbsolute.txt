@@ -1,0 +1,6 @@
+H:\C#\ConsoleAppP50\ConsoleAppP50\bin\Debug\ConsoleAppP50.exe.config
+H:\C#\ConsoleAppP50\ConsoleAppP50\bin\Debug\ConsoleAppP50.exe
+H:\C#\ConsoleAppP50\ConsoleAppP50\bin\Debug\ConsoleAppP50.pdb
+H:\C#\ConsoleAppP50\ConsoleAppP50\obj\Debug\ConsoleAppP50.csprojAssemblyReference.cache
+H:\C#\ConsoleAppP50\ConsoleAppP50\obj\Debug\ConsoleAppP50.exe
+H:\C#\ConsoleAppP50\ConsoleAppP50\obj\Debug\ConsoleAppP50.pdb
