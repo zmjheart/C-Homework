@@ -1,0 +1,9 @@
+H:\C#\WindowsFormsAppP23 3\WindowsFormsAppP23 3\bin\Debug\WindowsFormsAppP23 3.exe.config
+H:\C#\WindowsFormsAppP23 3\WindowsFormsAppP23 3\bin\Debug\WindowsFormsAppP23 3.exe
+H:\C#\WindowsFormsAppP23 3\WindowsFormsAppP23 3\bin\Debug\WindowsFormsAppP23 3.pdb
+H:\C#\WindowsFormsAppP23 3\WindowsFormsAppP23 3\obj\Debug\WindowsFormsAppP23 3.csprojAssemblyReference.cache
+H:\C#\WindowsFormsAppP23 3\WindowsFormsAppP23 3\obj\Debug\WindowsFormsAppP23_3.Form1.resources
+H:\C#\WindowsFormsAppP23 3\WindowsFormsAppP23 3\obj\Debug\WindowsFormsAppP23_3.Properties.Resources.resources
+H:\C#\WindowsFormsAppP23 3\WindowsFormsAppP23 3\obj\Debug\WindowsFormsAppP23 3.csproj.GenerateResource.cache
+H:\C#\WindowsFormsAppP23 3\WindowsFormsAppP23 3\obj\Debug\WindowsFormsAppP23 3.exe
+H:\C#\WindowsFormsAppP23 3\WindowsFormsAppP23 3\obj\Debug\WindowsFormsAppP23 3.pdb
