@@ -1,0 +1,9 @@
+H:\C#\WindowsFormsApp 4.2 class test\WindowsFormsApp 4.2 class test\obj\Debug\WindowsFormsApp_4._2_class_test.Form1.resources
+H:\C#\WindowsFormsApp 4.2 class test\WindowsFormsApp 4.2 class test\obj\Debug\WindowsFormsApp_4._2_class_test.Properties.Resources.resources
+H:\C#\WindowsFormsApp 4.2 class test\WindowsFormsApp 4.2 class test\obj\Debug\WindowsFormsApp 4.2 class test.csproj.GenerateResource.cache
+H:\C#\WindowsFormsApp 4.2 class test\WindowsFormsApp 4.2 class test\bin\Debug\WindowsFormsApp 4.2 class test.exe.config
+H:\C#\WindowsFormsApp 4.2 class test\WindowsFormsApp 4.2 class test\bin\Debug\WindowsFormsApp 4.2 class test.exe
+H:\C#\WindowsFormsApp 4.2 class test\WindowsFormsApp 4.2 class test\bin\Debug\WindowsFormsApp 4.2 class test.pdb
+H:\C#\WindowsFormsApp 4.2 class test\WindowsFormsApp 4.2 class test\obj\Debug\WindowsFormsApp 4.2 class test.exe
+H:\C#\WindowsFormsApp 4.2 class test\WindowsFormsApp 4.2 class test\obj\Debug\WindowsFormsApp 4.2 class test.pdb
+H:\C#\WindowsFormsApp 4.2 class test\WindowsFormsApp 4.2 class test\obj\Debug\WindowsFormsApp 4.2 class test.csprojAssemblyReference.cache
