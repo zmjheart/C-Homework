@@ -1,0 +1,8 @@
+H:\C#\WindowsFormsApp ListBox HomeWork\WindowsFormsApp ListBox HomeWork\bin\Debug\WindowsFormsApp ListBox HomeWork.exe.config
+H:\C#\WindowsFormsApp ListBox HomeWork\WindowsFormsApp ListBox HomeWork\bin\Debug\WindowsFormsApp ListBox HomeWork.exe
+H:\C#\WindowsFormsApp ListBox HomeWork\WindowsFormsApp ListBox HomeWork\bin\Debug\WindowsFormsApp ListBox HomeWork.pdb
+H:\C#\WindowsFormsApp ListBox HomeWork\WindowsFormsApp ListBox HomeWork\obj\Debug\WindowsFormsApp_ListBox_HomeWork.Form1.resources
+H:\C#\WindowsFormsApp ListBox HomeWork\WindowsFormsApp ListBox HomeWork\obj\Debug\WindowsFormsApp_ListBox_HomeWork.Properties.Resources.resources
+H:\C#\WindowsFormsApp ListBox HomeWork\WindowsFormsApp ListBox HomeWork\obj\Debug\WindowsFormsApp ListBox HomeWork.csproj.GenerateResource.cache
+H:\C#\WindowsFormsApp ListBox HomeWork\WindowsFormsApp ListBox HomeWork\obj\Debug\WindowsFormsApp ListBox HomeWork.exe
+H:\C#\WindowsFormsApp ListBox HomeWork\WindowsFormsApp ListBox HomeWork\obj\Debug\WindowsFormsApp ListBox HomeWork.pdb
