@@ -1,0 +1,9 @@
+H:\C#\WindowsFormsAppP95 test ListBox\WindowsFormsAppP95 test ListBox\bin\Debug\WindowsFormsAppP95 test ListBox.exe.config
+H:\C#\WindowsFormsAppP95 test ListBox\WindowsFormsAppP95 test ListBox\bin\Debug\WindowsFormsAppP95 test ListBox.exe
+H:\C#\WindowsFormsAppP95 test ListBox\WindowsFormsAppP95 test ListBox\bin\Debug\WindowsFormsAppP95 test ListBox.pdb
+H:\C#\WindowsFormsAppP95 test ListBox\WindowsFormsAppP95 test ListBox\obj\Debug\WindowsFormsAppP95 test ListBox.csprojAssemblyReference.cache
+H:\C#\WindowsFormsAppP95 test ListBox\WindowsFormsAppP95 test ListBox\obj\Debug\WindowsFormsAppP95_test_ListBox.Form1.resources
+H:\C#\WindowsFormsAppP95 test ListBox\WindowsFormsAppP95 test ListBox\obj\Debug\WindowsFormsAppP95_test_ListBox.Properties.Resources.resources
+H:\C#\WindowsFormsAppP95 test ListBox\WindowsFormsAppP95 test ListBox\obj\Debug\WindowsFormsAppP95 test ListBox.csproj.GenerateResource.cache
+H:\C#\WindowsFormsAppP95 test ListBox\WindowsFormsAppP95 test ListBox\obj\Debug\WindowsFormsAppP95 test ListBox.exe
+H:\C#\WindowsFormsAppP95 test ListBox\WindowsFormsAppP95 test ListBox\obj\Debug\WindowsFormsAppP95 test ListBox.pdb

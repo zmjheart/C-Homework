@@ -1,0 +1,9 @@
+H:\C#\WindowsFormsAppP93例4-2\WindowsFormsAppP93例4-2\bin\Debug\WindowsFormsAppP93例4-2.exe.config
+H:\C#\WindowsFormsAppP93例4-2\WindowsFormsAppP93例4-2\bin\Debug\WindowsFormsAppP93例4-2.exe
+H:\C#\WindowsFormsAppP93例4-2\WindowsFormsAppP93例4-2\bin\Debug\WindowsFormsAppP93例4-2.pdb
+H:\C#\WindowsFormsAppP93例4-2\WindowsFormsAppP93例4-2\obj\Debug\WindowsFormsAppP93例4-2.csprojAssemblyReference.cache
+H:\C#\WindowsFormsAppP93例4-2\WindowsFormsAppP93例4-2\obj\Debug\WindowsFormsAppP93例4_2.Form1.resources
+H:\C#\WindowsFormsAppP93例4-2\WindowsFormsAppP93例4-2\obj\Debug\WindowsFormsAppP93例4_2.Properties.Resources.resources
+H:\C#\WindowsFormsAppP93例4-2\WindowsFormsAppP93例4-2\obj\Debug\WindowsFormsAppP93例4-2.csproj.GenerateResource.cache
+H:\C#\WindowsFormsAppP93例4-2\WindowsFormsAppP93例4-2\obj\Debug\WindowsFormsAppP93例4-2.exe
+H:\C#\WindowsFormsAppP93例4-2\WindowsFormsAppP93例4-2\obj\Debug\WindowsFormsAppP93例4-2.pdb
