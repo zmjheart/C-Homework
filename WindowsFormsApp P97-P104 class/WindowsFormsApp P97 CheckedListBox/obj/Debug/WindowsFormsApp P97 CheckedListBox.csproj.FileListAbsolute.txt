@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\WindowsFormsApp P97 CheckedListBox\WindowsFormsApp P97 CheckedListBox\bin\Debug\WindowsFormsApp P97 CheckedListBox.exe.config
+C:\Users\Administrator\source\repos\WindowsFormsApp P97 CheckedListBox\WindowsFormsApp P97 CheckedListBox\bin\Debug\WindowsFormsApp P97 CheckedListBox.exe
+C:\Users\Administrator\source\repos\WindowsFormsApp P97 CheckedListBox\WindowsFormsApp P97 CheckedListBox\bin\Debug\WindowsFormsApp P97 CheckedListBox.pdb
+C:\Users\Administrator\source\repos\WindowsFormsApp P97 CheckedListBox\WindowsFormsApp P97 CheckedListBox\obj\Debug\WindowsFormsApp P97 CheckedListBox.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\WindowsFormsApp P97 CheckedListBox\WindowsFormsApp P97 CheckedListBox\obj\Debug\WindowsFormsApp_P97_CheckedListBox.Form1.resources
+C:\Users\Administrator\source\repos\WindowsFormsApp P97 CheckedListBox\WindowsFormsApp P97 CheckedListBox\obj\Debug\WindowsFormsApp_P97_CheckedListBox.Properties.Resources.resources
+C:\Users\Administrator\source\repos\WindowsFormsApp P97 CheckedListBox\WindowsFormsApp P97 CheckedListBox\obj\Debug\WindowsFormsApp P97 CheckedListBox.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\WindowsFormsApp P97 CheckedListBox\WindowsFormsApp P97 CheckedListBox\obj\Debug\WindowsFormsApp P97 CheckedListBox.exe
+C:\Users\Administrator\source\repos\WindowsFormsApp P97 CheckedListBox\WindowsFormsApp P97 CheckedListBox\obj\Debug\WindowsFormsApp P97 CheckedListBox.pdb
