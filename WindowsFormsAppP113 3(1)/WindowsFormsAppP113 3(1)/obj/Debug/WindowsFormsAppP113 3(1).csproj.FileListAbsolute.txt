@@ -1,0 +1,9 @@
+H:\C#\WindowsFormsAppP113 3(1)\WindowsFormsAppP113 3(1)\bin\Debug\WindowsFormsAppP113 3(1).exe.config
+H:\C#\WindowsFormsAppP113 3(1)\WindowsFormsAppP113 3(1)\bin\Debug\WindowsFormsAppP113 3(1).exe
+H:\C#\WindowsFormsAppP113 3(1)\WindowsFormsAppP113 3(1)\bin\Debug\WindowsFormsAppP113 3(1).pdb
+H:\C#\WindowsFormsAppP113 3(1)\WindowsFormsAppP113 3(1)\obj\Debug\WindowsFormsAppP113_3_1_.Form1.resources
+H:\C#\WindowsFormsAppP113 3(1)\WindowsFormsAppP113 3(1)\obj\Debug\WindowsFormsAppP113_3_1_.Properties.Resources.resources
+H:\C#\WindowsFormsAppP113 3(1)\WindowsFormsAppP113 3(1)\obj\Debug\WindowsFormsAppP113 3(1).csproj.GenerateResource.cache
+H:\C#\WindowsFormsAppP113 3(1)\WindowsFormsAppP113 3(1)\obj\Debug\WindowsFormsAppP113 3(1).exe
+H:\C#\WindowsFormsAppP113 3(1)\WindowsFormsAppP113 3(1)\obj\Debug\WindowsFormsAppP113 3(1).pdb
+H:\C#\WindowsFormsAppP113 3(1)\WindowsFormsAppP113 3(1)\obj\Debug\WindowsFormsAppP113 3(1).csprojAssemblyReference.cache

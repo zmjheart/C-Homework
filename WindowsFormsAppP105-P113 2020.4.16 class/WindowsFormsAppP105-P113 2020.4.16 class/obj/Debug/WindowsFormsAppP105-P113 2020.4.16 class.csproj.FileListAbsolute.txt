@@ -1,0 +1,18 @@
+C:\Users\Administrator\source\repos\WindowsFormsAppP105-P113 2020.4.16 class\WindowsFormsAppP105-P113 2020.4.16 class\bin\Debug\WindowsFormsAppP105-P113 2020.4.16 class.exe.config
+C:\Users\Administrator\source\repos\WindowsFormsAppP105-P113 2020.4.16 class\WindowsFormsAppP105-P113 2020.4.16 class\bin\Debug\WindowsFormsAppP105-P113 2020.4.16 class.exe
+C:\Users\Administrator\source\repos\WindowsFormsAppP105-P113 2020.4.16 class\WindowsFormsAppP105-P113 2020.4.16 class\bin\Debug\WindowsFormsAppP105-P113 2020.4.16 class.pdb
+C:\Users\Administrator\source\repos\WindowsFormsAppP105-P113 2020.4.16 class\WindowsFormsAppP105-P113 2020.4.16 class\obj\Debug\WindowsFormsAppP105-P113 2020.4.16 class.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\WindowsFormsAppP105-P113 2020.4.16 class\WindowsFormsAppP105-P113 2020.4.16 class\obj\Debug\WindowsFormsAppP105_P113_2020._4._16_class.Form1.resources
+C:\Users\Administrator\source\repos\WindowsFormsAppP105-P113 2020.4.16 class\WindowsFormsAppP105-P113 2020.4.16 class\obj\Debug\WindowsFormsAppP105_P113_2020._4._16_class.Properties.Resources.resources
+C:\Users\Administrator\source\repos\WindowsFormsAppP105-P113 2020.4.16 class\WindowsFormsAppP105-P113 2020.4.16 class\obj\Debug\WindowsFormsAppP105-P113 2020.4.16 class.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\WindowsFormsAppP105-P113 2020.4.16 class\WindowsFormsAppP105-P113 2020.4.16 class\obj\Debug\WindowsFormsAppP105-P113 2020.4.16 class.exe
+C:\Users\Administrator\source\repos\WindowsFormsAppP105-P113 2020.4.16 class\WindowsFormsAppP105-P113 2020.4.16 class\obj\Debug\WindowsFormsAppP105-P113 2020.4.16 class.pdb
+H:\C#\WindowsFormsAppP105-P113 2020.4.16 class\WindowsFormsAppP105-P113 2020.4.16 class\bin\Debug\WindowsFormsAppP105-P113 2020.4.16 class.exe.config
+H:\C#\WindowsFormsAppP105-P113 2020.4.16 class\WindowsFormsAppP105-P113 2020.4.16 class\bin\Debug\WindowsFormsAppP105-P113 2020.4.16 class.exe
+H:\C#\WindowsFormsAppP105-P113 2020.4.16 class\WindowsFormsAppP105-P113 2020.4.16 class\bin\Debug\WindowsFormsAppP105-P113 2020.4.16 class.pdb
+H:\C#\WindowsFormsAppP105-P113 2020.4.16 class\WindowsFormsAppP105-P113 2020.4.16 class\obj\Debug\WindowsFormsAppP105-P113 2020.4.16 class.csprojAssemblyReference.cache
+H:\C#\WindowsFormsAppP105-P113 2020.4.16 class\WindowsFormsAppP105-P113 2020.4.16 class\obj\Debug\WindowsFormsAppP105_P113_2020._4._16_class.Form1.resources
+H:\C#\WindowsFormsAppP105-P113 2020.4.16 class\WindowsFormsAppP105-P113 2020.4.16 class\obj\Debug\WindowsFormsAppP105_P113_2020._4._16_class.Properties.Resources.resources
+H:\C#\WindowsFormsAppP105-P113 2020.4.16 class\WindowsFormsAppP105-P113 2020.4.16 class\obj\Debug\WindowsFormsAppP105-P113 2020.4.16 class.csproj.GenerateResource.cache
+H:\C#\WindowsFormsAppP105-P113 2020.4.16 class\WindowsFormsAppP105-P113 2020.4.16 class\obj\Debug\WindowsFormsAppP105-P113 2020.4.16 class.exe
+H:\C#\WindowsFormsAppP105-P113 2020.4.16 class\WindowsFormsAppP105-P113 2020.4.16 class\obj\Debug\WindowsFormsAppP105-P113 2020.4.16 class.pdb
